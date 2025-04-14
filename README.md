@@ -25,4 +25,3 @@ min_temp_c = find_min_temperature(temperatures, "C")
 min_temp_k = find_min_temperature(temperatures, "K")
 print(f"Minimum Temperature: {min_temp_c} °C")
 print(f"Minimum Temperature: {min_temp_k} K")
-tru
